@@ -1,0 +1,14 @@
+{
+    "python.pythonPath": "/home/thomas/.local/share/virtualenvs/firstapp-3vHnqvud/bin/python",
+    "python.linting.pylintEnabled": false,
+    "python.unitTest.unittestArgs": [
+        "-v",
+        "-s",
+        ".",
+        "-p",
+        "test*.py"
+    ],
+    "python.unitTest.pyTestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false,
+    "python.unitTest.unittestEnabled": true
+}

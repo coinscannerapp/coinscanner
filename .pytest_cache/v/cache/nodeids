@@ -1,0 +1,21 @@
+[
+  "test_BinanceApp.py::test_IsFirstKline",
+  "test_BinanceApp.py::test_NotFirstKline",
+  "test_BinanceApp.py::test_PriceDiff",
+  "test_BinanceApp.py::test_PriceDiffNegative",
+  "test_BinanceApp.py::test_PercentDiff",
+  "test_BinanceApp.py::test_PercentDiffNegative",
+  "test_BinanceApp.py::test_PriceDiffSeveral",
+  "test_BinanceApp.py::test_SameDirection",
+  "test_BinanceApp.py::test_NotSameDirection",
+  "test_BinanceApp.py::test_Impact",
+  "test_BinanceApp.py::test_NegativeImpact",
+  "test_BinanceApp.py::test_durationSecs",
+  "test_BinanceApp.py::test_durationHours",
+  "test_BinanceApp.py::test_overloadedPlusOperator",
+  "test_BinanceApp.py::test_isPowerMove",
+  "test_BinanceApp.py::test_notPowerMove",
+  "test_BinanceApp.py::test_hoursAppart",
+  "test_BinanceApp.py::test_isPowerRaise",
+  "test_BinanceApp.py::test_createBase"
+]
